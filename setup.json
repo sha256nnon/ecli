@@ -1,0 +1,13 @@
+{
+	"package_name": "node-cli-boilerplate",
+	"package_org": "@ptkdev",
+	"display_name": "Node Command Line Interface Boilerplate",
+	"description": "Create node cli with this user friendly boilerplate. Use this respository as template for your new npm command line interface project",
+	"author_name": "Patryk Rzucidło",
+	"author_nickname": "PTKDev",
+	"author_twitter": "@ptkdev",
+	"author_email": "support@ptkdev.io",
+	"author_url": "https://ptk.dev",
+	"github_repository_url": "github.com/ptkdev-boilerplate",
+	"github_repository_name": "node-cli-boilerplate"
+}
